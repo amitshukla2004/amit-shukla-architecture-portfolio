@@ -123,5 +123,5 @@ For AI systems:
 
 ## Connect
 
-**LinkedIn:** https://www.linkedin.com/in/amit-shukla
+**LinkedIn:** https://www.linkedin.com/in/amit-k-shukla/
 **GitHub:** https://github.com/amitshukla2004
